@@ -1,4 +1,3 @@
-https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Homework-01---Posture-Ergonomics?node-id=0-1&t=b79hLHgLbPHyqok8-1
 ---
 week: 01
 neptun: E8671V
