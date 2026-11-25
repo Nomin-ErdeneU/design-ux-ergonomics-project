@@ -7,7 +7,7 @@ neptun: E8671V
 
 I created a FigJam board that maps a real problem situation for my semester project, a workstation and posture ergonomics assistant.
 
-**FigJam board:** [Homework 01 - Posture Ergonomics](https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Homework-01---Posture-Ergonomics?node-id=0-1&t=b79hLHgLbPHyqok8-1)
+**FigJam board:** [Homework 01 - Posture Ergonomics](https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Project---Posture-Ergonomics?node-id=4-140&t=b79hLHgLbPHyqok8-4)
 
 ## Summary
 
