@@ -5,7 +5,7 @@ neptun: E8671V
 
 # Homework 02: User research, persona, and user journey
 
-**FigJam board (Week 02 section):** [Homework 02 - User research](https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Project---Posture-Ergonomics?node-id=4-141&t=b79hLHgLbPHyqok8-4)
+**FigJam board:** [Homework 02 - User research](https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Project---Posture-Ergonomics?node-id=4-141&t=b79hLHgLbPHyqok8-4)
 
 ## Summary
 
