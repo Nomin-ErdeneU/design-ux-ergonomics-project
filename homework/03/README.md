@@ -5,7 +5,7 @@ neptun: E8671V
 
 # Homework 03: Usability and accessibility audit
 
-**FigJam board:** [Homework 03 - Usability and accessibility audit](PASTE_YOUR_WEEK_03_FIGJAM_NODE_LINK_HERE)
+**FigJam board:** [Homework 03 - Usability and accessibility audit](https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Project---Posture-Ergonomics?node-id=22-1176&t=b79hLHgLbPHyqok8-4)
 
 ## Summary
 
