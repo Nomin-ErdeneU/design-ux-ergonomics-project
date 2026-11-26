@@ -5,11 +5,11 @@ neptun: E8671V
 
 # Homework 02: User research, persona, and user journey
 
-**FigJam board (Week 02 section):** [Homework 02 - User research](PASTE_WEEK_02_LINK_HERE)
+**FigJam board (Week 02 section):** [Homework 02 - User research](https://www.figma.com/board/2NFlEzbSYkC9IR2ieqQkqd/Project---Posture-Ergonomics?node-id=4-141&t=b79hLHgLbPHyqok8-4)
 
 ## Summary
 
-I did a short interview (about 15 minutes) with one student (Participant A) who works on programming and database coursework in long laptop sessions. I asked about past behavior: how they take breaks, what they do when their back or neck is uncomfortable, and how timers and notifications affect their focus. The notes are anonymized.
+I did a short interview (about 15 minutes) with one student (Participant A, self-reported) who works on programming and database coursework in long laptop sessions. I asked about past behavior: how they take breaks, what they do when their back or neck is uncomfortable, and how timers and notifications affect their focus. The notes are anonymized. Because this is a single self-reported account, the persona and insights are hypotheses to be checked with more participants.
 
 ## Main findings
 
