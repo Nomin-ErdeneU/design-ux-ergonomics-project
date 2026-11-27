@@ -5,7 +5,7 @@ neptun: E8671V
 
 # Homework 06: Low-fidelity wireframe
 
-**Figma file:** [HW06 - Posture Assistant Wireframes](https://www.figma.com/design/3jIp0U0iDkbZ9ZMciE85fr/Design--UX--Ergonomics-Homework?node-id=24-2&t=lZKCPbSB4HBMq688-1)
+**Figma file:** [HW06 - Posture Assistant Wireframes](https://www.figma.com/design/3jIp0U0iDkbZ9ZMciE85fr/Design--UX--Ergonomics-Homework?node-id=40-232&t=lZKCPbSB4HBMq688-4)
 
 ## Overview
 
