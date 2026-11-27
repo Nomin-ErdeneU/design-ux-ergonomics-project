@@ -5,7 +5,7 @@ neptun: E8671V
 
 # Homework 07: Clickable prototype and first feedback
 
-**Prototype link:** [HW07 - Posture Assistant Prototype](https://www.figma.com/design/3jIp0U0iDkbZ9ZMciE85fr/Design--UX--Ergonomics-Homework?node-id=40-224&t=lZKCPbSB4HBMq688-4)
+**Prototype link:** [HW07 - Posture Assistant Prototype](https://www.figma.com/design/3jIp0U0iDkbZ9ZMciE85fr/Design--UX--Ergonomics-Homework?node-id=40-224&t=HmGSkw8XbKOa2vl6-4)
 
 ## Scenario and task
 
