@@ -154,7 +154,7 @@ All tokens, styles, and component rules are documented visually in the **`HW08 �
   - `text/primary`: `#111318` (Dark: `#F3F4F6`) — Primary titles, timers, and labels (**18.7:1** contrast on `bg/surface`, exceeds WCAG AA `4.5:1`).
   - `text/secondary`: `#4B5563` (Dark: `#9CA3AF`) — Helper captions, pause context, and shortcut hints (**7.5:1** contrast on `bg/surface`, exceeds WCAG AA `4.5:1`).
   - `action/primary-bg`: `#111318` + `action/primary-text`: `#FFFFFF` (Dark: `#F3F4F6` / `#111318`) — Single primary CTA fill (**18.7:1** contrast).
-  - `border/subtle`: `#D1D5DB` (Dark: `#374151`) — Decorative card outlines and dividers only; never used for control boundaries.
+  - `border/subtle`: `#D1D5DB` (Dark: `#374151`) — Decorative card outlines and dividers only.
   - `border/control`: `#6B7280` (Dark: `#6B7280`) — Checkbox, outlined-button, and input boundaries (**4.8:1** on light `bg/surface`, **3.4:1** on dark `bg/surface`; meets WCAG 1.4.11 non-text contrast `≥ 3:1`).
 - **Text styles:**
   - `Heading / Prompt Title`: 16px SemiBold / 22px line-height (card headers and posture cue titles).
@@ -168,3 +168,4 @@ All tokens, styles, and component rules are documented visually in the **`HW08 �
   - **Button rule:** Maximum **one** filled `action/primary-bg` button (`40px` height, `8px` radius) per decision screen; all secondary actions (`Skip`, `Snooze 10m`, `Dismiss`) use outlined `border/control` styling so the primary action stands out immediately in peripheral vision.
   - **Input / checkbox rule:** Optional desk-check items use `18×18px` checkboxes (`4px` radius, `border/control`) inside a `≥ 36px` tall clickable row with left-aligned text labels for fast scanning and comfortable click targets.
   - **Icon rule:** Status icons (`16×16px`, `1.5px` stroke, `text/primary`) are **always paired with an explicit text label** (`[●] Monitoring`, `[!] Posture check`, `✓ Posture reset logged`)—never standalone—so state changes do not depend on icon recognition or color alone.
+  -  **Planned token: not yet applied in the Figma file, where controls still use `border/subtle`.** 
