@@ -1,35 +1,86 @@
 <!--@slide Opening-->
-# CornerCue: Evidence-Based Posture Prompt Design
+# CornerCue: a posture reminder that does not interrupt your focus
 
-Why do university students ignore posture apps during multi-hour evening laptop sessions—and how can a pause-aware corner cue fix it?
-
----
-
-<!--@slide Problem and Target User-->
-# Fixed-Timer Alerts Break Deep Study Flow
-
-- **Target user:** University students working 3–5 hours in the evening on laptops
-- **Core pain points:** Forward neck slump, shoulder fatigue, and intrusive modal popups
-- **Why chosen:** Existing posture tools interrupt mid-sentence, causing instant dismissal
+Can a posture reminder protect your neck and back without costing you your concentration?
 
 ---
 
-<!--@slide Research Lessons-->
-# Users Dismiss Alerts That Interrupt Active Typing
+<!--@slide The problem-->
+# The problem
 
-- **Observation ($n = 5$ student sessions):** 4 of 5 participants closed timer popups immediately when typing code or essays
-- **Key insight:** Willingness to adjust posture spikes during natural 6–10 second micro-pauses
-- **Sample limitation:** Small sample ($n = 5$) from one university cohort limits broad generalization
+- Long evening laptop sessions: posture slumps without being noticed
+- Fixed timers and popups break deep focus (about ten minutes lost)
+- Reminders get dismissed, or the tool gets deleted
+- Evidence base: one interview and one timer audit, so these are hypotheses
 
 ---
 
-<!--@slide Persona and Journey-->
-# Evening Student Persona & High-Friction Moment
+<!--@slide Research-->
+# What I learned
+
+- Interview (1 student): breaks happen at natural pauses, not at fixed times
+- Audit of the Morgen Pomodoro timer: six findings
+- Keyboard keys did not respond, a promo card added clutter, settings were one long scroll
+
+---
+
+<!--@slide Direction-->
+# Chosen direction
+
+- Show a cue only during a typing pause
+- Respond with one key: Done `Enter`, Snooze `Space`, Dismiss `Esc`
+- Dark mode, text and icon together
+- Optional 30-second desk check before a session
+- Left out: webcam tracking, calendars, sound mixers
+
+---
+
+<!--@slide Main flow-->
+# The main flow
 
 ```mermaid
 flowchart LR
-    A[Start Evening Session] --> B[90m Deep Typing]
-    B --> C[Neck & Shoulder Slump]
-    C --> D{Fixed Timer Popup?}
-    D -- Interrupts typing --> E[Dismissed & Ignored]
-    D -- 8s Typing Pause --> F[CornerCue Accepted]<!--@slide Opening-->
+  A[Desk check] --> B[Active session]
+  B -->|8 s typing pause| C[Corner cue]
+  C -->|Done| D[Reset confirmation]
+  D --> B
+  B -->|90 min without pause| E[90m state]
+  E --> B
+```
+
+---
+
+<!--@slide Usability test-->
+# Usability test: 3 students
+
+- Cue button found within about 2 seconds
+- Confirmation screen visible only about 1.8 seconds
+- All 3 doubted that the reset was saved
+- The 90-minute state had no buttons, so all 3 hesitated or clicked outside the card
+
+---
+
+<!--@slide Iterations-->
+# What I changed
+
+- Confirmation shown for 2800 ms, plus a persistent `Last posture reset: just now`
+- Buttons `Take stretch break` and `Dismiss` on the 90-minute state
+- Caption `Triggered during 8s typing pause` on the cue
+- Mini design system: buttons, checkbox row, prompt card
+
+---
+
+<!--@slide Limits-->
+# Limits
+
+- Only 3 participants
+- Typing pause is simulated in Figma
+- Changes checked by self-walkthrough only
+- Confidence ratings were not collected
+
+---
+
+<!--@slide Takeaway-->
+# Show the cue at a natural pause, and always confirm the action
+
+Next step: validate the changes with 3 more participants.
