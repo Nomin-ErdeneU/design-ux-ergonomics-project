@@ -24,6 +24,4 @@ CornerCue is a design project for university students who work for hours on a la
 
 ## Additional Documents
 
-## Additional Documents
-
 None. All results are linked in the timeline above.
