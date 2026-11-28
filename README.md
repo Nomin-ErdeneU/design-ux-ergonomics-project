@@ -3,7 +3,7 @@ name: Nomin-Erdene Ugiidalai
 neptun: E8671V
 ---
 
-# UX/UI Design: Course Repository
+# Design, UX, Ergonomics : Course Repository
 
 This repository tracks my homework, the individual project, and my presentation in one place. 
 
