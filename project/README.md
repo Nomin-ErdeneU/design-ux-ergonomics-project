@@ -1,4 +1,4 @@
-# CornerCue
+# CornerCue 
 
 CornerCue is a design project for university students who work for hours on a laptop in the evening. It addresses the neck and back strain caused by unnoticed slouching, and the loss of focus caused by fixed timers and popups. Current status: wireframes, a clickable Figma prototype, one usability test with 3 participants and one design iteration are done; there is no working software, and the next step is a validation check with 3 more participants.
 
