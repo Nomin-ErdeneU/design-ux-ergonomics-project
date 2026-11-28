@@ -1,7 +1,7 @@
 ---
 week: 06
 neptun: E8671V
----
+--- 
 
 # Homework 06: Low-fidelity wireframe
 
