@@ -8,7 +8,7 @@ Why do university students ignore posture apps during multi-hour evening laptop 
 <!--@slide Problem and Target User-->
 # Fixed-Timer Alerts Break Deep Study Flow
 
-- **Target user:** University students working 3–5+ hours in the evening on laptops
+- **Target user:** University students working 3–5 hours in the evening on laptops
 - **Core pain points:** Forward neck slump, shoulder fatigue, and intrusive modal popups
 - **Why chosen:** Existing posture tools interrupt mid-sentence, causing instant dismissal
 
@@ -32,4 +32,4 @@ flowchart LR
     B --> C[Neck & Shoulder Slump]
     C --> D{Fixed Timer Popup?}
     D -- Interrupts typing --> E[Dismissed & Ignored]
-    D -- 8s Typing Pause --> F[CornerCue Accepted]
+    D -- 8s Typing Pause --> F[CornerCue Accepted]<!--@slide Opening-->
