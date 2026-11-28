@@ -24,5 +24,6 @@ CornerCue is a design project for university students who work for hours on a la
 
 ## Additional Documents
 
-- [{{DOCUMENT_TITLE}}](docs/{{FILE_NAME}}.md)
-- Only strictly necessary documents are kept in `project/docs/`.
+## Additional Documents
+
+None. All results are linked in the timeline above.
