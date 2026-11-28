@@ -25,3 +25,8 @@ Based on the sitemap and user flow from Homework 05, I built black-and-white low
 - **Content hierarchy:** Each screen highlights the current status and one primary keyboard action (`Start focus block [Enter]` or `Done [Enter]`) using a solid black fill, while secondary options (`Skip [Esc]`, `Pause`, `End session`, `Snooze 10m [Space]`, `Dismiss [Esc]`) use light outlines so everything does not compete equally.
 - **Main action & flow:** Posture prompts appear only during typing pauses (8+ seconds) so they do not steal focus while coding or writing. Arrows and note boxes show how each button moves to the next screen or returns to monitoring.
 - **Auto Layout & naming:** Frames and layers are named `01`–`06` to match the flow, and Auto Layout stacks keep button padding and alignment consistent when resizing between desktop and mobile screens.
+
+## Scope notes (changes from Homework 05)
+
+- **Menu Bar Pill:** The pill planned in Homework 05 is not drawn as a separate frame. Its `Monitoring • 42m` status is shown inside `02-ActiveSession-Desktop`, and the 90-minute variant is covered by `05-State-90Min-NoPause`. The `Snoozed` state is not wireframed yet and is planned for a later iteration.
+- **Mobile frame:** `02-ActiveSession-Mobile` is a layout check on a narrow screen; the product itself targets laptops.
