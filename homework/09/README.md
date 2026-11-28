@@ -58,7 +58,8 @@ Organized in a dedicated section/frame in Figma using only components present on
   - `Checkbox Row` (`Checked = false` / `Checked = true`, `18×18px` box inside a `≥ 36px` clickable row) for the optional pre-session desk check.
   - `Prompt Card` container (`bg/surface`, `border/subtle`, `8px` radius) for cue and status states.
 - **Consistency & reuse:** Tokens (`bg/canvas`, `bg/surface`, `text/primary`, `text/secondary`, `action/primary-bg`, `border/subtle`, `border/control`) and spacing (`8px`, `16px`, `24px`) are shared consistently across components so new screens can be composed without one-off overrides.
-- **Not included:** Input fields and a Disabled button state do not appear on the current screens, so they are intentionally left out of this system.
+- - **Not used in the flow:** The `Input / Field` set and a Disabled button variant exist in the Figma file for future screens, but no current screen uses them.
+
 
 ---
 
@@ -68,7 +69,7 @@ The dedicated handoff frame in Figma presents `03-CornerCue-Prompt` ready for im
 
 - **States shown:** Default prompt state (`[!] Posture check – sit tall`, `Triggered during 8s typing pause`, `Done [Enter]`, `Snooze 10m [Space]`, `Dismiss [Esc]`), focused/active button state, and post-action confirmation (`✓ Posture reset logged` → active monitoring after `2800ms`).
 - **Variables & styles referenced:** `bg/surface`, `text/primary`, `text/secondary`, `action/primary-bg`, `border/subtle` (card outline), `border/control` (outlined button borders), typography styles (`16px` SemiBold title, `14px` Medium control label, `12px` Regular caption/shortcut), and spacing (`8px` / `16px` / `24px`).
-- **Behavior & accessibility rules:** Triggered only during an 8-second typing pause; single primary CTA (`Done [Enter]`) establishes clear hierarchy; keyboard shortcuts (`Enter`, `Space`, `Esc`) map to primary, snooze, and dismiss actions; icons always pair with text labels and meet WCAG AA contrast (`≥ 4.5:1`). *(Marked as handoff-ready in the frame label; Figma Free plan does not enable native Dev Mode status toggles.)*
+- **Behavior & accessibility rules:** Triggered only during an 8-second typing pause; single primary CTA (`Done [Enter]`) establishes clear hierarchy; keyboard shortcuts (`Enter`, `Space`, `Esc`) map to primary, snooze, and dismiss actions; icons always pair with text labels and meet WCAG AA contrast (`≥ 4.5:1`). 
 
 ---
 
