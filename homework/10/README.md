@@ -1,6 +1,6 @@
 ---
 week: 10
-neptun: E8671v
+neptun: E8671V
 ---
 Completed Homework 10 (Project Presentation) for **CornerCue**, presenting an evidence-based design story from evening laptop posture pain points and 5-user research through design iterations, measurable outcomes, limitations, reflection, and the final HW08 Figma prototype.
 
