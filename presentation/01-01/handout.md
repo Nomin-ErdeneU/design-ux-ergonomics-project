@@ -2,7 +2,7 @@
 
 **Presenter:** Nomin-Erdene Ugiidalai
 **Week and topic:** Project presentation, UX/UI Design (Homework 10)
-**Presentation:** [PWMD source](presentation.md)
+**Presentation:** [PWMD source]()
 
 ## Short Summary
 
