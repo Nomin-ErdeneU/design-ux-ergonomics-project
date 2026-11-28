@@ -1,6 +1,6 @@
 ---
 week: 05
-neptun: E8671V
+neptun: E8671V 
 ---
 
 # Homework 05: Information architecture and user flow
