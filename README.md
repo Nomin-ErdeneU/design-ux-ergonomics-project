@@ -1,5 +1,5 @@
 ---
-name: Nomin-Erdene Ugiidalai
+name: Nomin-Erdene Ugiidalai 
 neptun: E8671V
 ---
 
