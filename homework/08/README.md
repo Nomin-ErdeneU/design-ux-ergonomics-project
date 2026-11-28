@@ -7,7 +7,7 @@ neptun: E8671V
 
 **Figma prototype (tested version) & Mini UI Guideline:** [HW08 - Posture Assistant tested prototype & UI Guideline](https://www.figma.com/design/3jIp0U0iDkbZ9ZMciE85fr/Design--UX--Ergonomics-Homework?node-id=49-241&t=HmGSkw8XbKOa2vl6-4)
 
-*Note: the linked file shows v2, which includes the fixes from section 5. The test itself used the version without these fixes.*
+**Note: the linked file shows v2, which includes the fixes from section 5. The test itself used the version without these fixes.**
 
 ---
 
