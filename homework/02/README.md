@@ -1,7 +1,7 @@
 ---
 week: 02
 neptun: E8671V
----
+--- 
 
 # Homework 02: User research, persona, and user journey
 
