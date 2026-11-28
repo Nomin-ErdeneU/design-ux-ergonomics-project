@@ -1,5 +1,5 @@
 # CornerCue: a posture reminder that does not interrupt your focus
-
+ 
 **Presenter:** Nomin-Erdene Ugiidalai
 **Week and topic:** Project presentation, UX/UI Design (Homework 10)
 **Presentation:** [PWMD source](https://powermd.atomforge.eu/play?src=https%3A%2F%2Fgithub.com%2FNomin-ErdeneU%2Fdesign-ux-ergonomics-project%2Fblob%2Fmain%2Fpresentation%2F01-01%2Fpresentation.md#slide9)
