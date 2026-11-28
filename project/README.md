@@ -19,7 +19,7 @@ CornerCue is a design project for university students who work for hours on a la
 
 ## GitHub Projects
 
-- [CornerCue project board]({{GITHUB_PROJECT_URL}})
+- [CornerCue project board](https://github.com/Nomin-ErdeneU/design-ux-ergonomics-project/tree/main)
 - The board shows the **Todo → In progress → Done** status of specific tasks and is also accessible to the instructor.
 
 ## Additional Documents
