@@ -1,6 +1,6 @@
 ---
 week: 08
-neptun: E8671V
+neptun: E8671V 
 ---
 
 # Homework 08: Usability test, findings, and mini UI guideline
