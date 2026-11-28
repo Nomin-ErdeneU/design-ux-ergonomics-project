@@ -1,7 +1,7 @@
 ---
 week: 04
 neptun: E8671V
----
+--- 
 
 # Homework 04: Problem definition and opportunity search
 
